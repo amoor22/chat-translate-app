@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681355197968",
+    "firebase_url": "https://chat-translate-db3bc.firebaseio.com",
+    "project_id": "chat-translate-db3bc",
+    "storage_bucket": "chat-translate-db3bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681355197968:android:f0da3f06df9a82659b5495",
+        "android_client_info": {
+          "package_name": "com.amoor22.chat_translate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681355197968-6gj2c4qosam9v15uvlmtralq3d839ss5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGt7sZ_QinZGUUEPY8V2DwNw8p3Pgmi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681355197968-6gj2c4qosam9v15uvlmtralq3d839ss5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
